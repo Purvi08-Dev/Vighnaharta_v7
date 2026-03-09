@@ -1,0 +1,7 @@
+# Ignore MT5 files
+*.ex5
+*.mq5
+*.log
+*.set
+*.tpl
+*.csv
